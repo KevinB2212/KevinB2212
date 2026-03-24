@@ -93,15 +93,6 @@ Full-stack e-commerce platform for games built with Django. Features product bro
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinB2212&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=00e6a7&icon_color=00c9ff&text_color=e8e8f0" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinB2212&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=00e6a7&text_color=e8e8f0" alt="Top Languages" height="165">
-</p>
-
----
-
 <p align="center">
   <em>Building things that matter, one commit at a time.</em>
 </p>
