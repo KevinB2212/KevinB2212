@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/Dublin,_Ireland-00e6a7?style=flat-square&labelColor=0a0a1a" alt="Dublin">
   <img src="https://img.shields.io/badge/DCU-Computer_Science-00c9ff?style=flat-square&labelColor=0a0a1a" alt="DCU">
   <img src="https://img.shields.io/badge/Telnyx-Product_Support_Engineer-a855f7?style=flat-square&labelColor=0a0a1a" alt="Telnyx">
+  <br><br>
+  <a href="https://www.linkedin.com/in/kevin-biju-a56607334/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
