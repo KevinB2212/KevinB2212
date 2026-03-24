@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋 I'm Kevin</h1>
 
 <p align="center">
-  <strong>Computer Science Student @ DCU · Software Engineer @ Telnyx</strong>
+  <strong>Computer Science Student @ DCU · Product Support Engineer @ Telnyx</strong>
 </p>
 
 <p align="center">
