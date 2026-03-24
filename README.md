@@ -71,7 +71,7 @@ Custom Unix shell built from scratch in C. Supports built-in commands, I/O redir
 
 **[🎮 Game Store](https://github.com/KevinB2212/game-store)**
 
-Full-stack e-commerce platform for games built with Django. Features product browsing, cart management, and user authentication.
+Full-stack e-commerce platform for games built with Django. Product browsing, cart management, and user authentication.
 
 `Python` `Django` `HTML` `CSS`
 
@@ -85,13 +85,10 @@ Full-stack e-commerce platform for games built with Django. Features product bro
 
 | Repo | Description | Tech |
 |------|------------|------|
+| [🖥️ systems-admin-labs](https://github.com/KevinB2212/systems-admin-labs) | Docker, Git workflows, shell scripting & CI/CD | Docker, Git, Bash |
 | [🍕 pizza-ordering-app](https://github.com/KevinB2212/pizza-ordering-app) | Pizza ordering web app | Python, Django |
 | [📖 library-management-system](https://github.com/KevinB2212/library-management-system) | Library management system | Python, Django |
 | [📚 fullstack-labs](https://github.com/KevinB2212/fullstack-labs) | Full-stack web dev labs & projects | Python, JS, HTML |
-| [🐳 docker-lab](https://github.com/KevinB2212/docker-lab) | Docker containerization | Docker, Shell |
-| [⚙️ shell-scripts](https://github.com/KevinB2212/shell-scripts) | Shell scripting & CI/CD | Bash, GitLab CI |
-| [🔀 git-branching-demo](https://github.com/KevinB2212/git-branching-demo) | Git branching workflow demo | HTML, JS, CSS |
-| [🔧 git-workflows](https://github.com/KevinB2212/git-workflows) | Merge, rebase & bisect | Python, Git |
 
 ---
 
